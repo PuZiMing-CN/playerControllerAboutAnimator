@@ -1,0 +1,2 @@
+# playerControllerAboutAnimator
+这个项目是在控制角色移动的同时，利用bool函数来控制Animayor的动画效果
